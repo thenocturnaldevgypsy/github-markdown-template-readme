@@ -1,3 +1,5 @@
-![Header](/md_assets/octocat.gif)
-## GitHub README.md Markdown Templates
-Repo to store my README.md templates that I used to all my GitHub Repos. Feel free to fork it if you like it.
+<p align="center">
+   <img src="/md_assets/octocat.gif" alt="Logo" width="130" height="130">
+   <h3>GitHub README.md Markdown Templates</h3>
+   Repo to store my README.md templates that I used to all my GitHub Repos. Feel free to fork it if you like it.
+</p>
