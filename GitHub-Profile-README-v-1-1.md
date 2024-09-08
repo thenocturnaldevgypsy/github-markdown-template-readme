@@ -1,6 +1,6 @@
 ## Ohayo 👋🏼, I'm Abby (@TheNocturnalDevGypsy since 2002)
 
-I'm kinda your Jill of all Trades (from geeky to creativity): Technical Project Manager, Technical Writer, and Old School Full-Stack Developer (re-learning everything about Frontend and Backend technologies). I was also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`, might explore again in the future. In my free time, I work on my own projects here at GitHub to refresh/update my skills, Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs.
+I'm kinda your Jill of all Trades (from geeky to creativity): Technical Project Manager, Technical Writer, and Full-Stack Developer (re-learning everything about Frontend and Backend technologies ATM). I was also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`, might explore again in the future. In my free time, I work on my own projects here at GitHub to refresh/update my skills, Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs.
 
 #### :octocat: Fun Fact! I do Pen and Ink Illustrations too, it's being managed separately at
 [![Portfolio](https://img.shields.io/badge/Portfolio-yaIndigo.art-%2300416a?logo=airplayvideo&logoColor=white&labelColor=00416a&color=%2324292e)](https://www.yaindigo.art)
@@ -63,13 +63,7 @@ I'm kinda your Jill of all Trades (from geeky to creativity): Technical Project 
 ![Canva AI](https://img.shields.io/badge/Canva_AI-++-%2300416a?logo=canva&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
 #### 🚀 My active public repos at Github
-
-<a href="https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenocturnaldevgypsy&repo=gypsyshards-bootstrap-template-linkinbio&theme=transparent&hide_border=true" /></a> <a href="https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenocturnaldevgypsy&repo=duskgrimoires-java-lab-exercises&theme=transparent&hide_border=true" /></a>
+<a href="https://github.com/thenocturnaldevgypsy/ama-ask-me-anything"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenocturnaldevgypsy&repo=ama-ask-me-anything&theme=transparent&hide_border=true" /></a> <a href="https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenocturnaldevgypsy&repo=gypsyshards-bootstrap-template-linkinbio&theme=transparent&hide_border=true" /></a>
 
 #### ⚡ My Github Stats
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thenocturnaldevgypsy&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" /> <img height=200 width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true&langs_count=20" />
-
-<!---
-thenocturnaldevgypsy/thenocturnaldevgypsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
