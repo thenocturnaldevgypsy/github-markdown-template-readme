@@ -26,7 +26,7 @@ Sometimes I might not have a good answer for your question, but I'll do my best 
 
 Check out the [closed Issues](https://github.com/thenocturnaldevgypsy/ama-ask-me-anything/issues?sort=created&direction=desc&state=closed&page=1) filter on this repository to browse questions I've answered in the past. I try to use this as an email replacement that everyone can see, so feel free to dig into some of the older threads.
 
-## ![SECTION Me web-where...](https://img.shields.io/badge/SECTION-Me%20web%2Dwhere...-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+## ![SECTION Me web-where](https://img.shields.io/badge/SECTION-Me%20web%2Dwhere-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
 If you're just curious of who I am in general, feel free to check my other web presence.
 
