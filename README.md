@@ -10,5 +10,3 @@
       <img src="https://img.shields.io/badge/Support%20me%20via%20Ko--Fi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white" alt="Support me via Ko-Fi">
    </a>
 </p>
-
-[![Support me via Ko-Fi](https://img.shields.io/badge/Support%20me%20via%20Ko--Fi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white)](https://ko-fi.com/thenocturnaldevgypsy)
