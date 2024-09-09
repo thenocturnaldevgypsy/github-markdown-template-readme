@@ -12,12 +12,13 @@
 
 
 
-### :grey_exclamation: Just a headsup
 
-### ![Updates](https://img.shields.io/badge/%3E%3E%3E--Updates-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-
-
-## ![Documentation](https://img.shields.io/badge/%3E%3E%3E--Documentation-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+### ![SECTION Updates](https://img.shields.io/badge/SECTION-Updates-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
 
-## ![Get in Touch](https://img.shields.io/badge/%3E%3E%3E--Get%20in%20Touch-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+## ![SECTION Documentation](https://img.shields.io/badge/SECTION-Documentation-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+
+
+
+## ![SECTION Get in Touch](https://img.shields.io/badge/SECTION-Get%20in%20Touch-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+
