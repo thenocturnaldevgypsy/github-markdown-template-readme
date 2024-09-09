@@ -4,4 +4,6 @@
 <p align="center">Just a quick description of the Repo's purposes. Replace the octocat image above for the Repo Introduction/Banner</p>
 <!-- Repo README.md / Header | End -->
 
-### :information_source: About this Repository
+## :information_source: About this Repository
+
+![Canva AI](https://img.shields.io/badge/Canva_AI-++-%2300416a?logo=canva&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
