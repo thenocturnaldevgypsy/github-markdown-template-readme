@@ -9,16 +9,15 @@
 </p>
 
 
-## ![About this Repository](https://img.shields.io/badge/%3E%3E!-About%20this%20Repository-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-
-
-## :grey_question: About this Repository
+## ![About this Repository](https://img.shields.io/badge/%3E%3E%3E--About%20this%20Repository-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
 
 ### :grey_exclamation: Just a headsup
 
-### 🔥🎫 Updates
+### ![Updates](https://img.shields.io/badge/%3E%3E%3E--Updates-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
-## Documentation
 
-## :speech_balloon: Get in Touch
+## ![Documentation](https://img.shields.io/badge/%3E%3E%3E--Documentation-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+
+
+## ![Get in Touch](https://img.shields.io/badge/%3E%3E%3E--Get%20in%20Touch-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
