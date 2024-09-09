@@ -1,11 +1,14 @@
 <p align="center"><img src="/md_assets/pic_profile.png" alt="Logo" width="200" height="200"></p>
 <h3 align="center">thenocturnaldevgypsy/ama - Ask me anything!</h3>
 <p align="center"><em>This is a quick little ask-me-anything type of repository. Got the inspiration from <a href="https://github.com/holman/feedback">@holman's feedback repo</a> and seems like simple yet a great idea in lieu of traditional blog comments, email, and the like.</em></p>
-<p align="center"><strong>You like the Repo? Don't forget to 🌟, 👁️ and 🔱!</strong></p>
+<p align="center"><strong>You like the Repo? Don't forget to 🌟, 👁️, 🔱 and ❤️!</strong></p>
 <p align="center">
    <img src="https://img.shields.io/badge/PURPOSE-Ask%20questions.%20Receive%20answers.-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="PURPOSE-Ask questions. Receive answers.">
    <img src="https://img.shields.io/badge/VERSION-2.0.0-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="VERSION 2.0.0">
    <img src="https://img.shields.io/badge/LAST%20UPDATE-10.09.2024-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="LAST UPDATE 10.09.2024">
+   <a href="https://ko-fi.com/thenocturnaldevgypsy">
+      <img src="https://img.shields.io/badge/Support%20me%20via%20Ko--Fi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white" alt="Support me via Ko-Fi">
+   </a>
 </p>
 
 ## ![SECTION About this Repository](https://img.shields.io/badge/SECTION-About%20this%20Repository-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
@@ -38,3 +41,10 @@ If you're just curious of who I am in general, feel free to check my other web p
 [![Mastodon](https://img.shields.io/badge/Mastodon-/@TheNocturnalDevGypsy-%2300416a?logo=mastodon&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://mastodon.social/@TheNocturnalDevGypsy)
 [![X](https://img.shields.io/badge/X-/nocturnalgypsy__-%2300416a?logo=x&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://x.com/nocturnalgypsy_)
 [![Email](https://img.shields.io/badge/Email-i.am.abby@thenocturnaldevgypsy.io-%2300416a?logo=maildotru&logoColor=white&labelColor=%2300416a&color=%2324292e)](mailto:i.am.abby@thenocturnaldevgypsy.io)
+
+## ![SECTION Forking the Repo](https://img.shields.io/badge/SECTION-Forking%20the%20Repo-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+
+If you'd like to create your own AMA repository:
+- Click `Fork` at the top of this page.
+- Edit the `README.md` (make sure to change the name and links and all that) and make the necessary changes for the `shields.io` badges codes.
+- Enable issues on your repository (they're in your fork's Settings page).
