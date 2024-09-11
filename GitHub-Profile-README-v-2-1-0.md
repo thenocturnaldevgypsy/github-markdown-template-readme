@@ -8,7 +8,8 @@ I do Pen and Ink Illustrations too, it's being managed separately at
 [![Portfolio](https://img.shields.io/badge/Portfolio-yaIndigo.art-%2300416a?logo=airplayvideo&logoColor=white&labelColor=00416a&color=%2324292e)](https://www.yaindigo.art)
 [![Beacons.ai](https://img.shields.io/badge/Beacons.ai-/yaIndigo.art-%2300416a?logo=beacon&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://beacons.ai/yaindigo.art)
 
-#### 👾 Me web-where...
+## ![SECTION Me else(web)where...](https://img.shields.io/badge/👾%20👾%20👾-Me%20else%28web%29where...-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+ 
 [![Portfolio](https://img.shields.io/badge/Portfolio-thenocturnaldevgypsy.io-%2300416a?logo=airplayvideo&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.thenocturnaldevgypsy.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/abegail--torrendon-%2300416a?logo=linkedin&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.linkedin.com/in/abegail-torrendon/)
 [![Beacons.ai](https://img.shields.io/badge/Beacons.ai-/thenocturnaldevgypsy-%2300416a?logo=beacon&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://beacons.ai/thenocturnaldevgypsy)
