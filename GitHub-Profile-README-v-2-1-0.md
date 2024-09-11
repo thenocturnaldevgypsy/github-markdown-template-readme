@@ -19,7 +19,7 @@ I'm kinda your Jill of all Trades (from geeky to creativity): Technical Project 
 
 ## ![SECTION Support me!](https://img.shields.io/badge/💙-Support%20me!-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
-#### 💙 Support me! Aside :star2:ring some of the repositories!
+Aside 🌟, 👁️, 🔱 and ❤️ some of the repositories!
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-/thenocturnaldevgypsy-%2300416a?logo=kofi&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://ko-fi.com/thenocturnaldevgypsy)
 [![Uncut NFTs](https://img.shields.io/badge/Uncut%20NFTs%20(WAXp%20and%20Polygon)-/user/4296077072-%2300416a?logo=uncut&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://uncut.network/user/4296077072)
 [![Upwork](https://img.shields.io/badge/Upwork-/freelancers/~0135fa830786a3f536-%2300416a?logo=upwork&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.upwork.com/freelancers/~0135fa830786a3f536?s=1484275220996608000)
