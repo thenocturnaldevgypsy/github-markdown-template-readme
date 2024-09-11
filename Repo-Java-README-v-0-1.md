@@ -21,5 +21,5 @@
 ## ![SECTION Documentation](https://img.shields.io/badge/SECTION-Documentation-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
 
-## ![SECTION Get in Touch](https://img.shields.io/badge/SECTION-Get%20in%20Touch-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+## ![SECTION Get in Touch](https://img.shields.io/badge/⚡-Get%20in%20Touch-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
