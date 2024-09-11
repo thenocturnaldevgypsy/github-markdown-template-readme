@@ -18,13 +18,20 @@
 
 ## ![SECTION Documentation](https://img.shields.io/badge/📚-Documentation-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
+### 🛠️ Build With
+
+### Prerequisites
+
+### 🚧 Roadmap
+See the [open issues](https://github.com/repo-link/issues) for a list of proposed features (and known issues).
+
 ## ![SECTION Changelog](https://img.shields.io/badge/❕-Changelog-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
 | Version | Date | Commit | Type | Description |
 | -- | -- | -- | -- | -- |
 | X.X.X | DD.MM.YYYY | [Commit ID](https://www.github.com) | fix/feat | What was done ([PR ID](https://www.github.com)) |
 
-## ![SECTION Contribute](https://img.shields.io/badge/⛓️-Contribute-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+## ![SECTION Contribute](https://img.shields.io/badge/🤝-Contribute-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 Want to contribute? Great! Contributions welcome, but please read the [contribution guidelines](contributing.md) first.
 
 ## ![SECTION License](https://img.shields.io/badge/📑-License-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
