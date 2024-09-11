@@ -26,7 +26,7 @@ You should be aware that this is a public repository, so the content you post he
 
 Sometimes I might not have a good answer for your question, but I'll do my best to give you a good answer if I have one!
 
-## ![SECTION Read old questions](https://img.shields.io/badge/👓-Read%20old%20questions-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+## ![SECTION Read old questions](https://img.shields.io/badge/👀-Read%20old%20questions-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
 Check out the [closed Issues](https://github.com/thenocturnaldevgypsy/ama-ask-me-anything/issues?sort=created&direction=desc&state=closed&page=1) filter on this repository to browse questions I've answered in the past. I try to use this as an email replacement that everyone can see, so feel free to dig into some of the older threads.
 
