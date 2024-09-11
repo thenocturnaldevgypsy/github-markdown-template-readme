@@ -27,7 +27,7 @@ A Java  project that ....
 | -- | -- | -- | -- | -- |
 | X.X.X | DD.MM.YYYY | [Commit ID](https://www.github.com) | fix/feat | What was done ([PR ID](https://www.github.com)) |
 
-## ![SECTION Contribute](https://img.shields.io/badge/📑-Contribute-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+## ![SECTION Contribute](https://img.shields.io/badge/⛓️-Contribute-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 Want to contribute? Great! Contributions welcome, but please read the [contribution guidelines](contributing.md) first.
 
 ## ![SECTION License](https://img.shields.io/badge/📑-License-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
