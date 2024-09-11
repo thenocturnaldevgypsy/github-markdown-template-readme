@@ -2,13 +2,13 @@
 
 I'm kinda your Jill of all Trades (from geeky to creativity): Technical Project Manager, Technical Writer, and Full-Stack Developer (re-learning everything about Frontend and Backend technologies ATM). I was also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`, might explore again in the future. In my free time, I work on my own projects here at GitHub to refresh/update my skills, Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs.
 
-## ![SECTION Fun Fact](https://img.shields.io/badge/🏴%20🏴%20🏴-Fun%20Fact!-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+## ![SECTION Fun Fact](https://img.shields.io/badge/🏴%20🏴%20🏴-%20Fun%20Fact!-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 I do Pen and Ink Illustrations too, it's being managed separately at
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yaIndigo.art-%2300416a?logo=airplayvideo&logoColor=white&labelColor=00416a&color=%2324292e)](https://www.yaindigo.art)
 [![Beacons.ai](https://img.shields.io/badge/Beacons.ai-/yaIndigo.art-%2300416a?logo=beacon&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://beacons.ai/yaindigo.art)
 
-## ![SECTION Me else(web)where...](https://img.shields.io/badge/👾%20👾%20👾-Me%20else%28web%29where...-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+## ![SECTION Me else(web)where...](https://img.shields.io/badge/👾%20👾%20👾-%20Me%20else%28web%29where...-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
  
 [![Portfolio](https://img.shields.io/badge/Portfolio-thenocturnaldevgypsy.io-%2300416a?logo=airplayvideo&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.thenocturnaldevgypsy.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/abegail--torrendon-%2300416a?logo=linkedin&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.linkedin.com/in/abegail-torrendon/)
