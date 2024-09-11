@@ -1,7 +1,6 @@
 ## Ohayo 👋🏼, I'm Abby (@TheNocturnalDevGypsy since 2002)
 
-- :octocat: : Full-time Technical Project Manager, Freelance Technical Writer and Full-Stack Developer. 
-- :ninja: : I was also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`.
+- :octocat: : Full-time Technical Project Manager, Freelance Technical Writer and Full-Stack Developer. I was also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`.
 - ⚗️ : Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs, Catching up with Frontend and Backend technologies ATM.
 - 💬 : Ask me anything you want, in [my AMA repo](https://github.com/thenocturnaldevgypsy/ama-ask-me-anything).
 
