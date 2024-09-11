@@ -67,8 +67,6 @@ From OS, Envs, IDEs, Programming, DBs, Source Control, PM Tools, Documentation, 
 ![Canva AI](https://img.shields.io/badge/Canva_AI-++-%2300416a?logo=canva&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
 ## ![SECTION My active public repos at Github](https://img.shields.io/badge/🚀-My%20active%20public%20repos%20at%20Github-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-
-#### 🚀 My active public repos at Github
 <a href="https://github.com/thenocturnaldevgypsy/ama-ask-me-anything"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenocturnaldevgypsy&repo=ama-ask-me-anything&theme=transparent&hide_border=true" /></a> <a href="https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenocturnaldevgypsy&repo=gypsyshards-bootstrap-template-linkinbio&theme=transparent&hide_border=true" /></a>
 
 #### ⚡ My Github Stats
