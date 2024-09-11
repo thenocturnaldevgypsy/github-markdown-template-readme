@@ -20,7 +20,7 @@
 
 | Version | Date | Commit | Type | Description |
 | -- | -- | -- | -- | -- |
-| X.X.X | DD.MM.YYYY | [Commit ID](full commit link) | fix/feat | What was done ([PR ID if Available](full pr link)) |
+| X.X.X | DD.MM.YYYY | [Commit ID](https://www.github.com) | fix/feat | What was done ([PR ID if Available](fhttps://www.github.com)) |
 
 ## ![SECTION Contribute](https://img.shields.io/badge/📑-Contribute-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 Want to contribute? Great! Contributions welcome! Read the [contribution guidelines](contributing.md) first.
