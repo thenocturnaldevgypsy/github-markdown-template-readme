@@ -20,7 +20,7 @@
 
 ### 🛠️ Build With
 
-### Prerequisites
+### 🗃️ Prerequisites
 
 ### 🚧 Roadmap
 See the [open issues](https://github.com/repo-link/issues) for a list of proposed features (and known issues).
