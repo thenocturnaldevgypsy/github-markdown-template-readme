@@ -12,7 +12,7 @@
    </a>
 </p>
 
-## ![SECTION About this Repository](https://img.shields.io/badge/:octocat:-About%20this%20Repository-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+## ![SECTION About this Repository](https://img.shields.io/badge/❔-About%20this%20Repository-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
 Ask [@thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy) about...anything you want, in my AMA repo.
 
