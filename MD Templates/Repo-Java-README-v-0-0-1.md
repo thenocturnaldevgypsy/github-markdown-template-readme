@@ -15,7 +15,7 @@
 ## ![SECTION About this Repository](https://img.shields.io/badge/❔-About%20this%20Repository-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
 
-## ![SECTION Updates](https://img.shields.io/badge/❕-Updates-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+## ![SECTION Changelog](https://img.shields.io/badge/❕-Changelog-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
 
 ## ![SECTION Documentation](https://img.shields.io/badge/📚-Documentation-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
