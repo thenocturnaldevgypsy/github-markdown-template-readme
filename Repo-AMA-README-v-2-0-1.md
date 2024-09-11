@@ -14,7 +14,7 @@
 
 ## ![SECTION About this Repository](https://img.shields.io/badge/❔-About%20this%20Repository-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
-Ask [@thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy) about...anything you want, in [@my AMA repo](https://github.com/thenocturnaldevgypsy/ama-ask-me-anything).
+Ask [@thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy) about...anything you want, in [my AMA repo](https://github.com/thenocturnaldevgypsy/ama-ask-me-anything).
 
 ## ![SECTION Ask a question](https://img.shields.io/badge/📢-Ask%20a%20question-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
