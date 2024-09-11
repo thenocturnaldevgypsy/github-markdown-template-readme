@@ -23,7 +23,7 @@
 ### 🗃️ Prerequisites
 
 ### 🚧 Roadmap
-See the [open issues](https://github.com/repo-link/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/issues) for a list of proposed features (and known issues).
 
 ## ![SECTION Changelog](https://img.shields.io/badge/❕-Changelog-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
@@ -41,4 +41,4 @@ Distributed under the MIT License by [@thenocturnaldevgypsy](https://github.com/
 - Please link back to this repo. 
 
 ## ![SECTION Get in Touch](https://img.shields.io/badge/📭-Get%20in%20Touch-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-I'd love to hear your thoughts on the project and get your suggestions. Feel free to [create new issue](https://github.com/thenocturnaldevgypsy/repo-name/issues/new) on this repo or you can also contact me at [my AMA repo](https://github.com/thenocturnaldevgypsy/ama-ask-me-anything).
+I'd love to hear your thoughts on the project and get your suggestions. Feel free to [create new issue](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/issues/new) on this repo or you can also contact me at [my AMA repo](https://github.com/thenocturnaldevgypsy/ama-ask-me-anything).
