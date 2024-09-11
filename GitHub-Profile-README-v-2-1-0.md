@@ -17,7 +17,7 @@ I'm kinda your Jill of all Trades (from geeky to creativity): Technical Project 
 [![X](https://img.shields.io/badge/X-/nocturnalgypsy__-%2300416a?logo=x&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://x.com/nocturnalgypsy_)
 [![Email](https://img.shields.io/badge/Email-i.am.abby@thenocturnaldevgypsy.io-%2300416a?logo=maildotru&logoColor=white&labelColor=%2300416a&color=%2324292e)](mailto:i.am.abby@thenocturnaldevgypsy.io)
 
-## ![SECTION Support me!](https://img.shields.io/badge/👾-%20Me%20else%28web%29where...-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+## ![SECTION Support me!](https://img.shields.io/badge/💙-Support%20me!-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
 #### 💙 Support me! Aside :star2:ring some of the repositories!
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-/thenocturnaldevgypsy-%2300416a?logo=kofi&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://ko-fi.com/thenocturnaldevgypsy)
