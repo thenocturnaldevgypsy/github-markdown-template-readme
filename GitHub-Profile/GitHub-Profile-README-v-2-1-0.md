@@ -69,3 +69,7 @@
 
 ## ![SECTION My Github Stats](https://img.shields.io/badge/⚡-My%20Github%20Stats-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 <img width="420" align="center" src="https://github-readme-stats.vercel.app/api?username=thenocturnaldevgypsy&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" /> <img width="420" aligh="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true" alt="TheNocturnalDevGypsy's WakaTime stats"> <img width="285" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true&langs_count=20" /> 
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@thenocturnaldevgypsy/368df259-a2ff-42be-ad40-7b97915cfee8.png" /></a>
+
+<figure><embed src="https://wakatime.com/share/@thenocturnaldevgypsy/d9019623-3092-44f9-a64c-d3966c1483e5.svg"></embed></figure>
