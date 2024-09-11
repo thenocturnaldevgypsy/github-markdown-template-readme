@@ -1,15 +1,14 @@
 ## Ohayo 👋🏼, I'm Abby (@TheNocturnalDevGypsy since 2002)
 
 - :octocat: : Full-time Technical Project Manager, Freelance Technical Writer and Full-Stack Developer. I was also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`.
-- ⚗️ : Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs, Catching up with Frontend and Backend technologies ATM.
+- 🧪 : Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs, Catching up with Frontend and Backend technologies ATM.
 - 💬 : Ask me anything you want, in [my AMA repo](https://github.com/thenocturnaldevgypsy/ama-ask-me-anything).
 
-## ![SECTION Fun Fact](https://img.shields.io/badge/👩‍🎨🎨-%20Fun%20Fact!%20I%20do%20Pen%20and%20Ink%20Illustrations%20too-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+## ![SECTION Fun Fact](https://img.shields.io/badge/💀-%20Fun%20Fact!%20I%20do%20Pen%20and%20Ink%20Illustrations%20too-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 [![Portfolio](https://img.shields.io/badge/Portfolio-yaIndigo.art-%2300416a?logo=airplayvideo&logoColor=white&labelColor=00416a&color=%2324292e)](https://www.yaindigo.art)
 [![Beacons.ai](https://img.shields.io/badge/Beacons.ai-/yaIndigo.art-%2300416a?logo=beacon&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://beacons.ai/yaindigo.art)
 
 ## ![SECTION Me else(web)where...](https://img.shields.io/badge/👾-%20Me%20else%28web%29where...-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
- 
 [![Portfolio](https://img.shields.io/badge/Portfolio-thenocturnaldevgypsy.io-%2300416a?logo=airplayvideo&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.thenocturnaldevgypsy.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/abegail--torrendon-%2300416a?logo=linkedin&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.linkedin.com/in/abegail-torrendon/)
 [![Beacons.ai](https://img.shields.io/badge/Beacons.ai-/thenocturnaldevgypsy-%2300416a?logo=beacon&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://beacons.ai/thenocturnaldevgypsy)
@@ -20,14 +19,11 @@
 [![Email](https://img.shields.io/badge/Email-i.am.abby@thenocturnaldevgypsy.io-%2300416a?logo=maildotru&logoColor=white&labelColor=%2300416a&color=%2324292e)](mailto:i.am.abby@thenocturnaldevgypsy.io)
 
 ## ![SECTION Support me!](https://img.shields.io/badge/💙-Support%20me!%20Aside%20🌟,%20👁️,%20🔱%20and%20❤️%20some%20of%20the%20repos!-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-/thenocturnaldevgypsy-%2300416a?logo=kofi&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://ko-fi.com/thenocturnaldevgypsy)
 [![Uncut NFTs](https://img.shields.io/badge/Uncut%20NFTs%20(WAXp%20and%20Polygon)-/user/4296077072-%2300416a?logo=uncut&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://uncut.network/user/4296077072)
 [![Upwork](https://img.shields.io/badge/Upwork-/freelancers/~0135fa830786a3f536-%2300416a?logo=upwork&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.upwork.com/freelancers/~0135fa830786a3f536?s=1484275220996608000)
 
 ## ![SECTION My Tech Stack](https://img.shields.io/badge/💻-My%20Tech%20Stack-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-From OS, Envs, IDEs, Programming, DBs, Source Control, PM Tools, Documentation, UI/UX, Graphic Design to AI
-
 ![WindowsOS](https://img.shields.io/badge/WindowsOS-+++-%2300416a?logo=windows&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 ![macOS](https://img.shields.io/badge/macOS-+++-%2300416a?logo=apple&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-++-%2300416a?logo=ubuntu&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
