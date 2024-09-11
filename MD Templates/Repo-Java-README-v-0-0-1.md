@@ -14,11 +14,13 @@
 
 ## ![SECTION About this Repository](https://img.shields.io/badge/❔-About%20this%20Repository-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
+## ![SECTION Documentation](https://img.shields.io/badge/📚-Documentation-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
 ## ![SECTION Changelog](https://img.shields.io/badge/❕-Changelog-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
-
-## ![SECTION Documentation](https://img.shields.io/badge/📚-Documentation-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+| Version | Date | Commit | Type | Description |
+| -- | -- | -- | -- | -- |
+| X.X.X | DD.MM.YYYY | [Commit ID](full commit link) | fix/feat | What was done ([PR ID if Available](full pr link)) |
 
 ## ![SECTION Contribute](https://img.shields.io/badge/📑-Contribute-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 Want to contribute? Great! Contributions welcome! Read the [contribution guidelines](contributing.md) first.
