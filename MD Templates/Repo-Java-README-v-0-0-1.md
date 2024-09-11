@@ -5,6 +5,7 @@
 <p align="center">
    <img src="https://img.shields.io/badge/Purpose-EDUCATION/LEARNING/PLAYGROUND-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Purpose-EDUCATION/LEARNING/PLAYGROUND">
    <img src="https://img.shields.io/badge/Version-X.X.X-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version X.X.X">
+   <img src="https://img.shields.io/badge/Contribute-OPEN/CLOSED/SOON-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Contribute-OPEN/CLOSED/SOON">
    <img src="https://img.shields.io/badge/License-MIT-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="License MIT">
    <img src="https://img.shields.io/badge/Last%20Update-DD.MM.YYYY-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update DD.MM.YYYY">
    <a href="https://ko-fi.com/thenocturnaldevgypsy">
