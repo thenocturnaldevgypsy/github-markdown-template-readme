@@ -26,7 +26,7 @@ I've created this repo as a reminder to myself that Java was one of the programm
 ### 🗃️ Prerequisites
 
 ### 🚧 Roadmap
-See the [open issues](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/issues) for a list to-do from my side and proposed features (and known issues).
 
 ## ![SECTION Changelog](https://img.shields.io/badge/❕-Changelog-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
