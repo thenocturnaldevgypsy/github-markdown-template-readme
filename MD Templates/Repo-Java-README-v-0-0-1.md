@@ -22,4 +22,4 @@
 
 
 ## ![SECTION Get in Touch](https://img.shields.io/badge/📭-Get%20in%20Touch-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-
+Feel free to [create new issue](https://github.com/thenocturnaldevgypsy/repo-name/issues/new) on this repo to ask questions or for new features. You can also contact me at [my AMA repo](https://github.com/thenocturnaldevgypsy/ama-ask-me-anything).
