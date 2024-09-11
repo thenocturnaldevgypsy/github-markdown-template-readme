@@ -23,7 +23,7 @@ I'm kinda your Jill of all Trades (from geeky to creativity): Technical Project 
 [![Uncut NFTs](https://img.shields.io/badge/Uncut%20NFTs%20(WAXp%20and%20Polygon)-/user/4296077072-%2300416a?logo=uncut&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://uncut.network/user/4296077072)
 [![Upwork](https://img.shields.io/badge/Upwork-/freelancers/~0135fa830786a3f536-%2300416a?logo=upwork&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.upwork.com/freelancers/~0135fa830786a3f536?s=1484275220996608000)
 
-## ![SECTION My Tech Stack](https://img.shields.io/badge/💻-My%20Tech%20Stack...-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+## ![SECTION My Tech Stack](https://img.shields.io/badge/💻-My%20Tech%20Stack-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 From OS, Envs, IDEs, Programming, DBs, Source Control, PM Tools, Documentation, UI/UX, Graphic Design to AI
 
 ![WindowsOS](https://img.shields.io/badge/WindowsOS-+++-%2300416a?logo=windows&logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
