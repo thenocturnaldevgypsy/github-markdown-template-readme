@@ -1,5 +1,5 @@
 
-<h3 align="center"Ohayo 👋🏼, I'm Abby (@TheNocturnalDevGypsy since 2002)</h3>
+<h3 align="center">Ohayo 👋🏼, I'm Abby (@TheNocturnalDevGypsy since 2002)</h3>
 
 
 #### :octocat: Fun Fact! I do Pen and Ink Illustrations too, it's being managed separately at
