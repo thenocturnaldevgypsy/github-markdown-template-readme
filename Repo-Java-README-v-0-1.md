@@ -12,14 +12,14 @@
    </a>
 </p>
 
-## ![SECTION About this Repository](https://img.shields.io/badge/SECTION-About%20this%20Repository-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+## ![SECTION About this Repository](https://img.shields.io/badge/❔-About%20this%20Repository-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
 
-## ![SECTION Updates](https://img.shields.io/badge/SECTION-Updates-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+## ![SECTION Updates](https://img.shields.io/badge/❕-Updates-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
 
-## ![SECTION Documentation](https://img.shields.io/badge/SECTION-Documentation-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+## ![SECTION Documentation](https://img.shields.io/badge/📚-Documentation-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
 
-## ![SECTION Get in Touch](https://img.shields.io/badge/⚡-Get%20in%20Touch-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+## ![SECTION Get in Touch](https://img.shields.io/badge/📭-Get%20in%20Touch-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
