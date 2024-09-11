@@ -1,8 +1,11 @@
 ## Ohayo 👋🏼, I'm Abby (@TheNocturnalDevGypsy since 2002)
 
-I'm kinda your Jill of all Trades (from geeky to creativity): Technical Project Manager, Technical Writer, and Full-Stack Developer (re-learning everything about Frontend and Backend technologies ATM). I was also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`, might explore again in the future. In my free time, I work on my own projects here at GitHub to refresh/update my skills, Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs.
+- :octocat: : Full-time Technical Project Manager, Freelance Technical Writer and Full-Stack Developer. 
+- :ninja: : I was also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`.
+- ⚗️ : Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs, Catching up with Frontend and Backend technologies ATM.
+- 💬 : Ask me anything you want, in [my AMA repo](https://github.com/thenocturnaldevgypsy/ama-ask-me-anything).
 
-## ![SECTION Fun Fact](https://img.shields.io/badge/🎨-%20Fun%20Fact!%20I%20do%20Pen%20and%20Ink%20Illustrations%20too-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+## ![SECTION Fun Fact](https://img.shields.io/badge/👩‍🎨🎨-%20Fun%20Fact!%20I%20do%20Pen%20and%20Ink%20Illustrations%20too-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 [![Portfolio](https://img.shields.io/badge/Portfolio-yaIndigo.art-%2300416a?logo=airplayvideo&logoColor=white&labelColor=00416a&color=%2324292e)](https://www.yaindigo.art)
 [![Beacons.ai](https://img.shields.io/badge/Beacons.ai-/yaIndigo.art-%2300416a?logo=beacon&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://beacons.ai/yaindigo.art)
 
@@ -70,5 +73,4 @@ From OS, Envs, IDEs, Programming, DBs, Source Control, PM Tools, Documentation, 
 <a href="https://github.com/thenocturnaldevgypsy/ama-ask-me-anything"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenocturnaldevgypsy&repo=ama-ask-me-anything&theme=transparent&hide_border=true" /></a> <a href="https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenocturnaldevgypsy&repo=gypsyshards-bootstrap-template-linkinbio&theme=transparent&hide_border=true" /></a>
 
 ## ![SECTION My Github Stats](https://img.shields.io/badge/⚡-My%20Github%20Stats-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-<img width="300" align="center" src="https://github-readme-stats.vercel.app/api?username=thenocturnaldevgypsy&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" /> <img width="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true&langs_count=20" /> <img width="300" aligh="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true" alt="TheNocturnalDevGypsy's WakaTime stats">
-</a>
+<img width="420" align="center" src="https://github-readme-stats.vercel.app/api?username=thenocturnaldevgypsy&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" /> <img width="420" aligh="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true" alt="TheNocturnalDevGypsy's WakaTime stats"> <img width="285" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true&langs_count=20" /> 
