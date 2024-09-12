@@ -35,8 +35,6 @@ See the [open issues](https://github.com/thenocturnaldevgypsy/duskgrimoires-java
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | X.X.X | DD.MM.YYYY | [Commit ID](https://www.github.com) | fix/feat | What was done ([PR ID](https://www.github.com)) |
 | 0.1.0 | 07-08/05, 2024 | -- | fix | - Done with updating all renamed classes, noticed that `Prefinal_Exercise1_Trees.java` has incomplete codes. Will be looking for my backup (or just rewrite it) and I'll upload it in this repo soon. <br>- Tried pulling the repo to my local unit using VS Code, need to retweak `App.java`, especially if some users wanted to try it out and won't get confused with the menu, reuploaded all required folders and source codes. <br>- Created `java-labcodes-exercises-dsaa` GitHub `public` repository, added MIT License, and uploaded the original Java codes that I've used way back 2012. |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-
 
 ## ![SECTION Contribute](https://img.shields.io/badge/🤝-Contribute-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 Want to contribute? Great! But at the moment, the contribution is closed until I finished all the issues that I've opened for myself in this project.
