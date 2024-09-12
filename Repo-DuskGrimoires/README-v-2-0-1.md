@@ -33,13 +33,7 @@ See the [open issues](https://github.com/thenocturnaldevgypsy/duskgrimoires-java
 
 | Version | Date | Commit | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1.0.0 | 06.09.2024 | [ea3bb0a](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/commit/ea3bb0aa0020fb29324b15cfc9b5f24ca78b87e5) | fix & feat | - Recreated repo from `duskgrimoire-java-lab-exercises` to `duskgrimoires-java-lab-exercises`
-   - Continued separating source codes per subject / topic via subdirectory.
-      - Renamed subdirectory `data-structure-algorithm-analysis` to `datastructurealgorithmanalysis`
-         - Created `DataStrucAlgoAnalysis.java` to serve as the Table of Contents for the Apps under `Data Structure and Algorithm Analysis`
-      - Created subdirectory `programmingessentialsoop`
-         - Created `ProgEssentialsOOP.java` to serve as the Table of Contents for the Apps under `Programming Essentials to OOP`
-      - Updated `App.java` to serve as the Table of Contents for the overall App. |
+| 1.0.0 | 06.09.2024 | [ea3bb0a](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/commit/ea3bb0aa0020fb29324b15cfc9b5f24ca78b87e5) | fix & feat | - Recreated repo from `duskgrimoire-java-lab-exercises` to `duskgrimoires-java-lab-exercises` <br>- Continued separating source codes per subject / topic via subdirectory. <br>- Renamed subdirectory `data-structure-algorithm-analysis` to `datastructurealgorithmanalysis` and created `DataStrucAlgoAnalysis.java` to serve as the Table of Contents for the Apps under `Data Structure and Algorithm Analysis`. <br>- Created subdirectory `programmingessentialsoop` and created `ProgEssentialsOOP.java` to serve as the Table of Contents for the Apps under `Programming Essentials to OOP`. <br>- Updated `App.java` to serve as the Table of Contents for the overall App. |
 | 0.1.2 | 01.09.2024 | -- | feat | Started separating source codes per subject / topic via subdirectory. Created `data-structure-algorithm-analysis` |
 | 0.1.1 | 29.08.2024 | -- | feat | Cloned the original repo `java-labcodes-exercises-dsaa` to the new repo `duskgrimoires-java-lab-exercises` for public viewing purposes. |
 | 0.1.0 | 07-08/05, 2024 | -- | fix | - Done with updating all renamed classes, noticed that `Prefinal_Exercise1_Trees.java` has incomplete codes. Will be looking for my backup (or just rewrite it) and I'll upload it in this repo soon ([Issue #1](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/issues/3)). <br>- Tried pulling the repo to my local unit using VS Code, need to retweak `App.java`, especially if some users wanted to try it out and won't get confused with the menu, reuploaded all required folders and source codes. <br>- Created `java-labcodes-exercises-dsaa` GitHub `public` repository, added MIT License, and uploaded the original Java codes that I've used way back 2012. |
