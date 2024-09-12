@@ -41,6 +41,18 @@ See the [open issues](https://github.com/thenocturnaldevgypsy/duskgrimoires-java
 
 ### 📖 Contents and Breakdown
 
+Under Data Structures and Algorithm Analysis
+   - All Activities under Prelim Period
+      - Demo
+      - Exercises (conditions and expected output)
+   - All Activities under Midterm Period
+      - Demo
+      - Exercises (conditions and expected output)
+   - All Activities under Pre-finals Period
+      - Exercises (conditions and expected output)
+   - All Activities under Finals Period
+      - Exercises (conditions and expected output)
+
 ## ![SECTION Changelog](https://img.shields.io/badge/❕-Changelog-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
 | Version | Date | Commit | Type | Description |
