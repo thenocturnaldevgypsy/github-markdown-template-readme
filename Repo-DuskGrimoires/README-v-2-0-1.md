@@ -17,7 +17,8 @@
 ## ![SECTION About this Repository](https://img.shields.io/badge/❔-About%20this%20Repository-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 `DuskGrimoires` is an old library that contains Java source codes I've coded and used during my career as Assistant Professor for BSCS, BSIT and BSCOE way back late 2012 to 2015.
 
-I've created this repo as a reminder to myself that Java was one of the programming languages I got **heavily** exposed when I was teaching in College/University. It's also a good way to refresh my Java, GitHub and Markdown skills. And just a reminder, the codes here were initially made way back 2012 and been updated regularly until 2015. So I only did some **best effort** to make sure that the codes that are in this repo can be compiled and can be read thru by users.
+> [!NOTE]
+> *I've created this repo as a reminder to myself that Java was one of the programming languages I got **heavily** exposed when I was teaching in College/University. It's also a good way to refresh my Java, GitHub and Markdown skills. And just a reminder, the codes here were initially made way back 2012 and been updated regularly until 2015. So I only did some **best effort** to make sure that the codes that are in this repo can be compiled and can be read thru by users.*
 
 ## ![SECTION Documentation](https://img.shields.io/badge/📚-Documentation-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
@@ -33,6 +34,8 @@ See the [open issues](https://github.com/thenocturnaldevgypsy/duskgrimoires-java
 | Version | Date | Commit | Type | Description |
 | -- | -- | -- | -- | -- |
 | X.X.X | DD.MM.YYYY | [Commit ID](https://www.github.com) | fix/feat | What was done ([PR ID](https://www.github.com)) |
+| X.X.X | DD.MM.YYYY | [Commit ID](https://www.github.com) | fix/feat | What was done ([PR ID](https://www.github.com)) |
+
 
 ## ![SECTION Contribute](https://img.shields.io/badge/🤝-Contribute-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 Want to contribute? Great! But at the moment, the contribution is closed until I finished all the issues that I've opened for myself in this project.
