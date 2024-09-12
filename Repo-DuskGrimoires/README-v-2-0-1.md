@@ -22,12 +22,24 @@
 
 ## ![SECTION Documentation](https://img.shields.io/badge/📚-Documentation-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
-### 🛠️ Build With
+### 🛠️ Build With and Folder Structure
 
-### 🗃️ Prerequisites
+I am currently using `VSCode Version: 1.89.0 (Universal)` as my IDE with the JDK below
+```
+OpenJDK version "21.0.3" 2024-04-16 LTS
+OpenJDK Runtime Environment Temurin-21.0.3+9 (build 21.0.3+9-LTS)
+OpenJDK 64-Bit Server VM Temurin-21.0.3+9 (build 21.0.3+9-LTS, mixed mode)
+```
+
+At the moment, the workspace contains two folders by default, where:
+
+- `datastructurealgorithmanalysis`: the folder that contains the source codes of the programs I've coded for `Data Structure and Algorithm Analysis`
+- `programmingessentialsoop`: the folder that contains the source codes of the programs I've coded for `Programming Essentials to OOP`
 
 ### 🚧 Roadmap
 See the [open issues](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/issues) for a list to-do from my side and proposed features (and known issues).
+
+### 📖 Contents and Breakdown
 
 ## ![SECTION Changelog](https://img.shields.io/badge/❕-Changelog-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
