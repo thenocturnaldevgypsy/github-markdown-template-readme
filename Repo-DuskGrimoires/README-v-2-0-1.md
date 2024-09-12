@@ -44,7 +44,26 @@ See the [open issues](https://github.com/thenocturnaldevgypsy/duskgrimoires-java
 Under Data Structures and Algorithm Analysis
    - All Activities under Prelim Period
       - Demo
+         1. Demo # 1: One Dimensional Array (Demo_OneDimArray.java)
+         2. Demo # 2: One Dimensional Array - Debug (Demo_OneDimArray_Debug)
+         3. Demo # 3: One Dimensional Array - Input (Demo_OneDimArray_Input.java)
+         4. Demo # 4: Two Dimensional Array (Demo_TwoDimArray.java)
+         5. Demo # 5: Two Dimensional Array - String (Demo_TwoDimArray_String.java)
+         6. Demo # 6: Two Dimensional Array - Storing (Demo_TwoDimArray_Storing.java)
+         7. Demo # 7: Method (Demo_Method.java)
+         8. Demo # 8: Method - Return (Demo_Method_Return.java)
+         9. Demo # 9: Method - Void (Demo_Method_Void.java)
+         10. Demo # 10: Stack (Demo_Stack.java)
+         11. Demo # 11: String - Reversed Word (Demo_String_ReverseWord.java)
+         12. Demo # 12: Stack - Decimal To Binary (Demo_Stack_DecToBin.java)
       - Exercises (conditions and expected output)
+         1. Exercise # 1: Java Refresher (Prelim_Exercise1_JavaRefresher.java)
+         2. Exercise # 2: One Dimensional Array - Minimum, Maximum, Average (Prelim_Exercise2_OneDimArray_MinMaxAve.java)
+         3. Exercise # 3: Two Dimensional Array - Minimum, Maximum, Average (Prelim_Exercise3_TwoDimArray_MinMaxAve.java)
+         4. Exercise # 4: Arrays - Faculty Listing, Type, Rate and Salary (Prelim_Exercise4_FacultyPayslip.java)
+         5. Exercise # 5: Arrays - BubbleSort (Prelim_Exercise5_BubbleSort.java)
+         6. Exercise # 6: Arrays - Linear Binary Search (Prelim_Exercise6_LinearBinarySearch.java)
+         7. Exercise # 7: Arrays - InsertionSort and SelectionSort (Prelim_Exercise7_InsertionSortSelectionSort.java)
    - All Activities under Midterm Period
       - Demo
       - Exercises (conditions and expected output)
@@ -69,7 +88,7 @@ Want to contribute? Great! But at the moment, the contribution is closed until I
 Distributed under the MIT License by [@thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy).
 - You can freely modify and reuse.
 - The original [LICENSE](LICENSE.md) must be included with copies of this software.
-- Please link back to this repo. 
+- Please link back (if you can fork, the better) to this repo. 
 
 ## ![SECTION Get in Touch](https://img.shields.io/badge/📭-Get%20in%20Touch-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 I'd love to hear your thoughts on the project and get your suggestions. Feel free to [create new issue](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/issues/new) on this repo or you can also contact me at [my AMA repo](https://github.com/thenocturnaldevgypsy/ama-ask-me-anything).
