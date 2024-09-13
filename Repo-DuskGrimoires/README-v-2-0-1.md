@@ -64,13 +64,29 @@ Under Data Structures and Algorithm Analysis
          5. Exercise # 5: Arrays - BubbleSort (Prelim_Exercise5_BubbleSort.java)
          6. Exercise # 6: Arrays - Linear Binary Search (Prelim_Exercise6_LinearBinarySearch.java)
          7. Exercise # 7: Arrays - InsertionSort and SelectionSort (Prelim_Exercise7_InsertionSortSelectionSort.java)
+         8. Exercise # 8: Method - Operations (Prelim_Exercise8_Method_Operations.java)
+         9. Exercise # 9: Method - Factorial (Prelim_Exercise9_Method_Factorial.java)
+         10. Exercise # 10: Method - TriangularNumber (Prelim_Exercise10_Method_TriangularNumber.java)
+         11. Exercise # 11: Stack - Reversed Word (Prelim_Exercise11_Stack_ReverseWord.java)
+         12. Exercise # 12: Stack - Leave Bracket Alone (Prelim_Exercise12_Stack_Brackets.java)
+         13. Exercise # 13: Stack - Decimal Conversion (Prelim_Exercise13_DecimalConversion.java)
    - All Activities under Midterm Period
       - Demo
+         1. Demo # 1: Linked List (Demo_LinkedList.java)
       - Exercises (conditions and expected output)
+         1. Exercise # 1: Linked List - Linear Search (Midterm_Exercise1_LinkedList_LinearSearch.java)
+         2. Exercise # 2: Linked List - Reversed Linear Search (Midterm_Exercise2_LinkedList_ReversedLinearSearch.java)
+         3. Exercise # 3: One Dimensional Array - Queue (Midterm_Exercise3_OneDimArray_Queue.java)
+         4. Exercise # 4: Linked List - Queue (Midterm_Exercise4_LinkedList_Queue.java)
+         5. Exercise # 5: Linked List - Data Manipulation (Midterm_Exercise5_LinkedList_DataManipulation.java)
    - All Activities under Pre-finals Period
       - Exercises (conditions and expected output)
+         1. Exercise # 1: Trees (Prefinal_Exercise1_Trees.java)
    - All Activities under Finals Period
       - Exercises (conditions and expected output)
+         1. Exercise # 1: N-sort (Finals_Exercise1_NSort.java)
+         2. The End - Feedback to the Course (TheEnd_Feedback.java)
+         3. Exercise # 3: Compilation of all Programs (DataStrucAlgoAnalysis.java)
 
 ## ![SECTION Changelog](https://img.shields.io/badge/❕-Changelog-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
