@@ -13,3 +13,7 @@
       <img src="https://img.shields.io/badge/Support%20me%20via%20Ko--Fi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white" alt="Support me via Ko-Fi">
    </a>
 </p>
+
+## ![SECTION Documentation](https://img.shields.io/badge/📚-Documentation-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+
+### 📖 Contents and Breakdown > Under Data Structures and Algorithm Analysis > All Activities under Prelim Period
