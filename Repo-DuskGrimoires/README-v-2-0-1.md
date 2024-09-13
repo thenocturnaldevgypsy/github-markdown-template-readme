@@ -42,7 +42,7 @@ See the [open issues](https://github.com/thenocturnaldevgypsy/duskgrimoires-java
 ### 📖 Contents and Breakdown
 
 Under Data Structures and Algorithm Analysis
-   - All Activities under Prelim Period
+   - [All Activities under Prelim Period](DSAA-LabExercise-Prelim-v-1-0-1.md)
       - Demo
          1. Demo # 1: One Dimensional Array (Demo_OneDimArray.java)
          2. Demo # 2: One Dimensional Array - Debug (Demo_OneDimArray_Debug)
