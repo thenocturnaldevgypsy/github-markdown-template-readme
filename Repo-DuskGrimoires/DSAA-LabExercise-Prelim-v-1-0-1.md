@@ -17,8 +17,9 @@
 ## ![SECTION Documentation](https://img.shields.io/badge/📚-Documentation-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
 #### 📖 Contents and Breakdown > Under Data Structures and Algorithm Analysis > All Activities under Prelim Period
+Back to [Main](README.md)
 
-**Demo**
+👨‍🏫 **Demo**
 1. Demo # 1: One Dimensional Array (Demo_OneDimArray.java)
 2. Demo # 2: One Dimensional Array - Debug (Demo_OneDimArray_Debug)
 3. Demo # 3: One Dimensional Array - Input (Demo_OneDimArray_Input.java)
@@ -32,7 +33,7 @@
 11. Demo # 11: String - Reversed Word (Demo_String_ReverseWord.java)
 12. Demo # 12: Stack - Decimal To Binary (Demo_Stack_DecToBin.java)
 
-**Exercises (conditions and expected output)**
+🏃 **Exercises (conditions and expected output)**
 1. Exercise # 1: Java Refresher (Prelim_Exercise1_JavaRefresher.java)
 ```
 Create a Java Program with the following output:
