@@ -5,10 +5,10 @@
 <p align="center">
    <img src="https://img.shields.io/badge/Purpose-EDUCATION/LEARNING-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Purpose-EDUCATION/LEARNING">
    <img src="https://img.shields.io/badge/Version-2.1.1-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version 2.1.1">
-   <img src="https://img.shields.io/badge/Lang-Java%2022.1.2-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Lang-Java 22.1.2">
+   <img src="https://img.shields.io/badge/Lang-Java%2022.0.2-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Lang-Java 22.0.2">
    <img src="https://img.shields.io/badge/Contribute-CLOSED-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Contribute-CLOSED">
    <img src="https://img.shields.io/badge/License-MIT-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="License MIT">
-   <img src="https://img.shields.io/badge/Last%20Update-DD.MM.YYYY-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update DD.MM.YYYY">
+   <img src="https://img.shields.io/badge/Last%20Update-14.09.2024-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update 14.09.2024">
    <a href="https://ko-fi.com/thenocturnaldevgypsy">
       <img src="https://img.shields.io/badge/Support%20me%20via%20Ko--Fi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white" alt="Support me via Ko-Fi">
    </a>
@@ -24,25 +24,43 @@
 
 ### 🛠️ Build With and Folder Structure
 
-I am currently using `VSCode Version: 1.89.0 (Universal)` as my IDE with the JDK below
+I am currently using the following:
+- **IDE and OS**
 ```
-OpenJDK version "21.0.3" 2024-04-16 LTS
-OpenJDK Runtime Environment Temurin-21.0.3+9 (build 21.0.3+9-LTS)
-OpenJDK 64-Bit Server VM Temurin-21.0.3+9 (build 21.0.3+9-LTS, mixed mode)
+Version: 1.93.1 (user setup)
+Commit: 38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40
+Date: 2024-09-11T17:20:05.685Z
+Electron: 30.4.0
+ElectronBuildId: 10073054
+Chromium: 124.0.6367.243
+Node.js: 20.15.1
+V8: 12.4.254.20-electron.0
+OS: Windows_NT x64 10.0.19045
+```
+- **JDK**
+```
+java version "22.0.2" 2024-07-16
+Java(TM) SE Runtime Environment (build 22.0.2+9-70)
+Java HotSpot(TM) 64-Bit Server VM (build 22.0.2+9-70, mixed mode, sharing)
 ```
 
-At the moment, the workspace contains two folders by default, where:
+At the moment, the workspace contains the following folders, where:
 
-- `datastructurealgorithmanalysis`: the folder that contains the source codes of the programs I've coded for `Data Structure and Algorithm Analysis`
-- `programmingessentialsoop`: the folder that contains the source codes of the programs I've coded for `Programming Essentials to OOP`
+- 🚧 `computerprogramming1`: the folder that contains the source codes of the programs I've coded for `Computer Programming 1`
+- 🚧 `computerprogramming2`: the folder that contains the source codes of the programs I've coded for `Computer Programming 2`
+- 🚧 `computerprogramming3`: the folder that contains the source codes of the programs I've coded for `Computer Programming 3`
+- ✅ `datastructurealgorithmanalysis`: the folder that contains the source codes of the programs I've coded for `Data Structure and Algorithm Analysis`
 
 ### 🚧 Roadmap
 See the [open issues](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/issues) for a list to-do from my side and proposed features (and known issues).
 
 ### 📖 Contents and Breakdown
 
-Under Data Structures and Algorithm Analysis
-   - [All Activities under Prelim Period](DSAA-LabExercise-Prelim-v-1-0-1.md)
+- 🚧 Under Computer Programming 1
+- 🚧 Under Computer Programming 2
+- 🚧 Under Computer Programming 3
+- ✅ Under Data Structures and Algorithm Analysis
+   - [All Activities under Prelim Period](DSAA-LabExercise-Prelim.md)
       - Demo
          1. Demo # 1: One Dimensional Array (Demo_OneDimArray.java)
          2. Demo # 2: One Dimensional Array - Debug (Demo_OneDimArray_Debug)
@@ -70,7 +88,7 @@ Under Data Structures and Algorithm Analysis
          11. Exercise # 11: Stack - Reversed Word (Prelim_Exercise11_Stack_ReverseWord.java)
          12. Exercise # 12: Stack - Leave Bracket Alone (Prelim_Exercise12_Stack_Brackets.java)
          13. Exercise # 13: Stack - Decimal Conversion (Prelim_Exercise13_DecimalConversion.java)
-   - All Activities under Midterm Period
+   - [All Activities under Midterm Period](DSAA-LabExercise-Midterm.md)
       - Demo
          1. Demo # 1: Linked List (Demo_LinkedList.java)
       - Exercises (conditions and expected output)
@@ -79,10 +97,10 @@ Under Data Structures and Algorithm Analysis
          3. Exercise # 3: One Dimensional Array - Queue (Midterm_Exercise3_OneDimArray_Queue.java)
          4. Exercise # 4: Linked List - Queue (Midterm_Exercise4_LinkedList_Queue.java)
          5. Exercise # 5: Linked List - Data Manipulation (Midterm_Exercise5_LinkedList_DataManipulation.java)
-   - All Activities under Pre-finals Period
+   - [All Activities under Pre-finals Period](DSAA-LabExercise-Prefinals.md)
       - Exercises (conditions and expected output)
          1. Exercise # 1: Trees (Prefinal_Exercise1_Trees.java)
-   - All Activities under Finals Period
+   - [All Activities under Finals Period](DSAA-LabExercise-Finals.md)
       - Exercises (conditions and expected output)
          1. Exercise # 1: N-sort (Finals_Exercise1_NSort.java)
          2. The End - Feedback to the Course (TheEnd_Feedback.java)
@@ -92,10 +110,11 @@ Under Data Structures and Algorithm Analysis
 
 | Version | Date | Commit | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1.0.0 | 06.09.2024 | [ea3bb0a](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/commit/ea3bb0aa0020fb29324b15cfc9b5f24ca78b87e5) | fix & feat | - Recreated repo from `duskgrimoire-java-lab-exercises` to `duskgrimoires-java-lab-exercises` <br>- Continued separating source codes per subject / topic via subdirectory. <br>- Renamed subdirectory `data-structure-algorithm-analysis` to `datastructurealgorithmanalysis` and created `DataStrucAlgoAnalysis.java` to serve as the Table of Contents for the Apps under `Data Structure and Algorithm Analysis`. <br>- Created subdirectory `programmingessentialsoop` and created `ProgEssentialsOOP.java` to serve as the Table of Contents for the Apps under `Programming Essentials to OOP`. <br>- Updated `App.java` to serve as the Table of Contents for the overall App. |
-| 0.1.2 | 01.09.2024 | -- | feat | Started separating source codes per subject / topic via subdirectory. Created `data-structure-algorithm-analysis` |
-| 0.1.1 | 29.08.2024 | -- | feat | Cloned the original repo `java-labcodes-exercises-dsaa` to the new repo `duskgrimoires-java-lab-exercises` for public viewing purposes. |
-| 0.1.0 | 07-08/05, 2024 | -- | fix | - Done with updating all renamed classes, noticed that `Prefinal_Exercise1_Trees.java` has incomplete codes. Will be looking for my backup (or just rewrite it) and I'll upload it in this repo soon ([Issue #1](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/issues/3)). <br>- Tried pulling the repo to my local unit using VS Code, need to retweak `App.java`, especially if some users wanted to try it out and won't get confused with the menu, reuploaded all required folders and source codes. <br>- Created `java-labcodes-exercises-dsaa` GitHub `public` repository, added MIT License, and uploaded the original Java codes that I've used way back 2012. |
+| 2.1.1 | 14.09.2024 | [118e2d1](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/commit/118e2d10dc55f82a5ec38dc68f928fc9a9e0c3b7) for [PR 6](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/pull/6), [3a2fac0](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/commit/3a2fac08c539f0ce0c766b9337e62880358e477e) for [PR 7](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/pull/7) | fix | - Updated Markdown files structure overall based on the template: https://github.com/thenocturnaldevgypsy/github-markdown-template-readme/blob/master/MD%20Templates/Repo-App-README-v-0-0-1.md. Updated README.md. Created DSAA-LabExercise-Prelim.md, DSAA-LabExercise-Prelim.md, DSAA-LabExercise-Prelim.md and DSAA-LabExercise-Prelim.md to separate Demo and Exercise user stories / descriptions from the original README.md ([PR 6](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/pull/6)).<br>- Updated directory structure. Deleted "programmingessentialsoop" subdirectory, and replace it with "computerprogramming1", "computerprogramming2" and "computerprogramming3" subdirectories. Created main classes for each subdirectories and the corresponding "on-going" placements ([PR 7](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/pull/7)).|
+| 2.0.0 | 06.09.2024 | [ea3bb0a](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/commit/ea3bb0aa0020fb29324b15cfc9b5f24ca78b87e5) | fix & feat | - Recreated repo from `duskgrimoire-java-lab-exercises` to `duskgrimoires-java-lab-exercises` <br>- Continued separating source codes per subject / topic via subdirectory. <br>- Renamed subdirectory `data-structure-algorithm-analysis` to `datastructurealgorithmanalysis` and created `DataStrucAlgoAnalysis.java` to serve as the Table of Contents for the Apps under `Data Structure and Algorithm Analysis`. <br>- Created subdirectory `programmingessentialsoop` and created `ProgEssentialsOOP.java` to serve as the Table of Contents for the Apps under `Programming Essentials to OOP`. <br>- Updated `App.java` to serve as the Table of Contents for the overall App. |
+| 1.1.2 | 01.09.2024 | -- | feat | Started separating source codes per subject / topic via subdirectory. Created `data-structure-algorithm-analysis` |
+| 1.1.1 | 29.08.2024 | -- | feat | Cloned the original repo `java-labcodes-exercises-dsaa` to the new repo `duskgrimoires-java-lab-exercises` for public viewing purposes. |
+| 1.1.0 | 07-08/05, 2024 | -- | fix | - Done with updating all renamed classes, noticed that `Prefinal_Exercise1_Trees.java` has incomplete codes. Will be looking for my backup (or just rewrite it) and I'll upload it in this repo soon ([Issue #1](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/issues/3)). <br>- Tried pulling the repo to my local unit using VS Code, need to retweak `App.java`, especially if some users wanted to try it out and won't get confused with the menu, reuploaded all required folders and source codes. <br>- Created `java-labcodes-exercises-dsaa` GitHub `public` repository, added MIT License, and uploaded the original Java codes that I've used way back 2012. |
 
 ## ![SECTION Contribute](https://img.shields.io/badge/🤝-Contribute-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 Want to contribute? Great! But at the moment, the contribution is closed until I finished all the issues that I've opened for myself in this project.
