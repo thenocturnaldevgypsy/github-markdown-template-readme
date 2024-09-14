@@ -58,7 +58,7 @@ See the [open issues](https://github.com/repo-link/issues) for a list of propose
 Want to contribute? Great! Contributions welcome, but please read the [contribution guidelines](contributing.md) first.
 
 ## ![SECTION License](https://img.shields.io/badge/📑-License-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-Distributed under the MIT License by [@thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy).
+Distributed under the MIT License by [Abegail Torrendon / thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy).
 - You can freely modify and reuse.
 - The original [LICENSE](LICENSE.md) must be included with copies of this software.
 - Please link back (if you can fork, the better) to this repo. 
