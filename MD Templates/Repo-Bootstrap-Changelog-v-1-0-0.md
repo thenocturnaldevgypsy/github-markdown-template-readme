@@ -15,19 +15,22 @@
    </a>
 </p>
 
-## ![SECTION Documentation](https://img.shields.io/badge/📚-Documentation-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+## ![SECTION Changelog](https://img.shields.io/badge/❕-Changelog-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
-#### 📖 Contents and Breakdown > Under ...  | Back to [Main](README.md)
 
-<img src="/md_assets/octocat.gif" alt="Logo" width="130" height="130">
+### 🔥 **Changelog under Version 2** 
+| Version | Date | Commit | Type | Description |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| X.X.X | DD.MM.YYYY | [Commit ID](https://www.github.com) for [PR ID](https://www.github.com), [Commit ID](https://www.github.com) | fix/feat | What was done ([PR ID](https://www.github.com)) |
+| X.X.X | DD.MM.YYYY | [Commit ID](https://www.github.com) for [PR ID](https://www.github.com), [Commit ID](https://www.github.com) | fix/feat | What was done ([PR ID](https://www.github.com)) |
 
 ---
 
-☑️ **Description/Features** 
 
-`Theme Name/ID` - What can be seen in the said theme
+### 🔥 **Changelog under Version 1** 
 
-✳️ **Variants**
-| Variant | Date | Commit | Files | Description |
+
+| Version | Date | Commit | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| xxx | DD.MM.YYYY | [Commit ID](https://www.github.com), [Commit ID](https://www.github.com) for [PR ID](https://www.github.com) | - directory/filename.html<br>- directory/filename.css<br>- directory/filename.js | What was done ([PR ID](https://www.github.com)) |
+| X.X.X | DD.MM.YYYY | [Commit ID](https://www.github.com) for [PR ID](https://www.github.com), [Commit ID](https://www.github.com) | fix/feat | What was done ([PR ID](https://www.github.com)) |
+| X.X.X | DD.MM.YYYY | [Commit ID](https://www.github.com) for [PR ID](https://www.github.com), [Commit ID](https://www.github.com) | fix/feat | What was done ([PR ID](https://www.github.com)) |

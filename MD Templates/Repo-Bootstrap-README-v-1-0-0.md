@@ -36,8 +36,26 @@ Version: ....
 ```
 
 At the moment, the workspace contains the following folders, where:
-- ✅
+```
+- [root]
+   - assets
+      - img
+         - favicons
+      - css
+      - js
+      - vendor
+   - md_assets
+```
+- ✅ `assets/img` : contains images used for the template
+- ✅ `assets/img/favicons` : contains the icons used for the template
+- ✅ `assets/css` : contains the customized CSS files for template
+- ✅ `assets/js` : contains the customized JS files for the template
+- ✅ `assets/vendor` : contains the CSS and JS libraries of the tools used
+- ✅ `md_assets/` : contains images and other files related to the Repo's Documentation (Markdown files)
 - 🚧
+
+Filename format for each themes:
+- ...
 
 ### 🗃️ Prerequisites
 
@@ -50,15 +68,25 @@ See the [open issues](https://github.com/repo-link/issues) for a list of propose
 
 **OR**
 
+| Description | File/s |
+| ------------- | ------------- |
+| Home Page of the template | `index.html` |
+| Main CSS of the template | `assets/css/style.css` |
+| Main JS of the template | `assets/js/core.js` |
+
+**OR**
+
 | Theme | Number of Variants | Description |
 | ------------- | ------------- | ------------- |
 | [Theme xxx.xx](https://link.com) | XXX | What was done |
 
 ## ![SECTION Changelog](https://img.shields.io/badge/❕-Changelog-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
+Below is the latest updates, go to the [Changelog Listing](CHANGELOG.md) for the complete information.
+
 | Version | Date | Commit | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| X.X.X | DD.MM.YYYY | [Commit ID](https://www.github.com) | fix/feat | What was done ([PR ID](https://www.github.com)) |
+| X.X.X | DD.MM.YYYY | [Commit ID](https://www.github.com) for [PR ID](https://www.github.com), [Commit ID](https://www.github.com) | fix/feat | What was done ([PR ID](https://www.github.com)) |
 
 ## ![SECTION Contribute](https://img.shields.io/badge/🤝-Contribute-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 Want to contribute? Great! Contributions welcome, but please read the [contribution guidelines](contributing.md) first.

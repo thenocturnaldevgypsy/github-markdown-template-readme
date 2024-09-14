@@ -15,19 +15,29 @@
    </a>
 </p>
 
-## ![SECTION Documentation](https://img.shields.io/badge/📚-Documentation-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+## ![SECTION Contribute](https://img.shields.io/badge/🤝-Contribute-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
-#### 📖 Contents and Breakdown > Under ...  | Back to [Main](README.md)
+Hi! I appreciate your interest in contributing. 😊 This guide will help you get started to make your first contribution.
 
-<img src="/md_assets/octocat.gif" alt="Logo" width="130" height="130">
+### 🤔 **What you can Contribute?**
+
+- 🐞 Bug Fixing : Contributors can help by reviewing and confirming reported issues. This includes submitting a report, verifying and providing additional details.
+
+- 💡 Feature Requests: Contribute your innovative ideas to enhance my project's functionality by suggesting new features.
+
+- 📝 Documentation Updates: Help me improve user experience and clarity by contributing to the documentation section with updates, clarifications, or additional information.
+
+- ✨Code Contributions : Contributors can enhance the project by implementing new features or improvements suggested by users. Unfortunately, I will move this one to hiatus first, as I need to make arrangement with reviewing those in the future.
 
 ---
+### 🤔 **How to Contribute?**
 
-☑️ **Description/Features** 
-
-`Theme Name/ID` - What can be seen in the said theme
-
-✳️ **Variants**
-| Variant | Date | Commit | Files | Description |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| xxx | DD.MM.YYYY | [Commit ID](https://www.github.com), [Commit ID](https://www.github.com) for [PR ID](https://www.github.com) | - directory/filename.html<br>- directory/filename.css<br>- directory/filename.js | What was done ([PR ID](https://www.github.com)) |
+- Drop a Star ⭐ and 👁️ in this repo
+- Take a look at the existing [open](https://github.com/repo-name/issues?q=is%3Aopen+is%3Aissue) and [closed](https://github.com/repo-name/issues?q=is%3Aissue+is%3Aclosed) issues for possible duplicates.
+- If there is no open issue for your problem/request, submit a new issue, and please make sure to choose the right labels:
+   - `bug` : for something isn't working
+   - `documentation` : improvements or addition to the existing documentation
+   - `enhancement` : new feature or request
+   
+   Do your best to fill out each field, preferably in as much detail as possible.
+- Assign the ticket to me ([Abegail Torrendon / thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy)) so I can review and I'll work on it.
