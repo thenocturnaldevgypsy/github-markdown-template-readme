@@ -21,9 +21,6 @@
 
 <img src="/md_assets/octocat.gif" alt="Logo" width="130" height="130">
 
----
-
-
 ## ![SUBSECTION Description/Features](https://custom-icon-badges.demolab.com/badge/-Description/Features-24292e?logo=check&logoColor=white&labelColor=2471AE)
 
 `Theme Name/ID` - What can be seen in the said theme

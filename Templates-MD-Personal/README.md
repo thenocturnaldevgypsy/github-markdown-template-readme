@@ -142,8 +142,3 @@ Distributed under the MIT License by [Abegail Torrendon / thenocturnaldevgypsy](
 
 ## ![SECTION Get in Touch](https://custom-icon-badges.demolab.com/badge/-Get%20in%20Touch-24292e?logo=pencil&logoColor=white&labelColor=00416a)
 I'd love to hear your thoughts on the project and get your suggestions. Feel free to [create new issue](https://github.com/thenocturnaldevgypsy/repo-name/issues/new) on this repo or you can also contact me at [my AMA repo](https://github.com/thenocturnaldevgypsy/ama-ask-me-anything).
-
-
-![Windows](https://custom-icon-badges.demolab.com/badge/-Windows-24292e?logo=windows11&logoColor=white&labelColor=00416a)
-
-![Build With](https://custom-icon-badges.demolab.com/badge/-Build%20With-24292e?logo=tools&logoColor=white&labelColor=2471AE)

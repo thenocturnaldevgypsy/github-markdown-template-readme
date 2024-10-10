@@ -20,7 +20,7 @@ This document contains the complete chronological list of updates and changes to
 
 ## ![SECTION Changelog under Version 2](https://custom-icon-badges.demolab.com/badge/-Changelog%20under%20Version%202-24292e?logo=flame&logoColor=white&labelColor=2471AE)
 
-➡️ Version Latest Live URL:  [x.x.x](https://github.com/thenocturnaldevgypsy/nightfall-bootstrap-template-developer-portfolio/)
+Version Latest Live URL:  [x.x.x](https://github.com/thenocturnaldevgypsy/nightfall-bootstrap-template-developer-portfolio/)
 
 | Version | Date | Commit | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -29,7 +29,7 @@ This document contains the complete chronological list of updates and changes to
 
 ## ![SECTION Changelog under Version 1](https://custom-icon-badges.demolab.com/badge/-Changelog%20under%20Version%201-24292e?logo=flame&logoColor=white&labelColor=2471AE)
 
-➡️ Version Latest Live URL:  [x.x.x](https://github.com/thenocturnaldevgypsy/nightfall-bootstrap-template-developer-portfolio/)
+Version Latest Live URL:  [x.x.x](https://github.com/thenocturnaldevgypsy/nightfall-bootstrap-template-developer-portfolio/)
 
 | Version | Date | Commit | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
