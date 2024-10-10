@@ -1,5 +1,5 @@
  <p align="center"><img src="/md_assets/octocat.gif" alt="Logo" width="130" height="130"></p>
-<h3 align="center">Repository Markdown Template (Name of Repo Placememt)</h3>
+<h3 align="center">Repository Markdown Template (Name of Repo Placement)</h3>
 <p align="center"><em>Just a quick description of the Repo's purposes. Replace the octocat image above for the Repo Introduction/Banner</em></p>
 
 <p align="center">
@@ -11,88 +11,110 @@
    <img src="https://img.shields.io/badge/Last%20Update-DD.MM.YYYY-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update DD.MM.YYYY">
 </p>
 
-## ![SECTION About this Repository](https://img.shields.io/badge/❔-About%20this%20Repository-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+## ![SECTION About this Repository](https://custom-icon-badges.demolab.com/badge/-About%20this%20Repository-24292e?logo=repo&logoColor=white&labelColor=00416a)
 
 `Repo Name` is blah blah blah...
 
 > [!NOTE]
 > *If there's a need to put some note here*
 
-## ![SECTION Documentation](https://img.shields.io/badge/📚-Documentation-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+![SUBSECTION Project Goals](https://custom-icon-badges.demolab.com/badge/-Project%20Goals-24292e?logo=star&logoColor=white&labelColor=2471AE)
 
-### 🛠️ Build With and Folder Structure
+- Goal 1: A detailed explanation of the feature.
+- Goal 2: What this feature brings to the project.
+- Goal 3: How this enhances the functionality.
 
-I am currently using the following:
-- **IDE and OS**
+## ![SECTION Build With](https://custom-icon-badges.demolab.com/badge/-Build%20With-24292e?logo=tools&logoColor=white&labelColor=00416a)
+
+**IDE and OS**
 ```
-Version: ....
+Version: 
+Commit: 38
+Date: 
+Electron: 
+ElectronBuildId: 
+Chromium: 
+Node.js: 
+V8: 
+OS: 
 ```
-- **JDK**
+**JDK**
 ```
-Version: ....
+java version 
+Java(TM) SE Runtime Environment 
+Java HotSpot(TM) 64-Bit Server VM 
 ```
-- **Web Server**
+**Web Server**
 ```
-Version: ....
+MAMP by MAMP GmbH
+Version: 5.0.6 (7029)
+x64 binaries release
 ```
-- **Framework and Tools**
+**Framework and Tools**
 ```
-Version: ....
+- CSS Framework: 
+- Icons: 
+- Font: 
 ```
+
+## ![SECTION Folders and Files Structure](https://custom-icon-badges.demolab.com/badge/-Folders%20and%20Files%20Structure-24292e?logo=file-submodule&logoColor=white&labelColor=00416a)
 
 At the moment, the workspace contains the following folders, where:
 ```
-- [root]
-   - assets
-      - img
-         - favicons
-      - css
-      - js
-      - vendor
-   - md_assets
-```
-- ✅ `assets/img` : contains images used for the template
-- ✅ `assets/img/favicons` : contains the icons used for the template
-- ✅ `assets/css` : contains the customized CSS files for template
-- ✅ `assets/js` : contains the customized JS files for the template
-- ✅ `assets/vendor` : contains the CSS and JS libraries of the tools used
-- ✅ `md_assets/` : contains images and other files related to the Repo's Documentation (Markdown files)
-- 🚧 blah blah blah...
-
-Filename format for each themes:
-- ... blah blah blah...
-
-### 🗃️ Prerequisites
-blah blah blah...
-
-> [!IMPORTANT]
-> *If there's a need to put some note here*
-
-### 🚧 Roadmap
-See the [open issues](https://github.com/thenocturnaldevgypsy/repo-link/issues) for a list of proposed features (and known issues).
-
-### 📖 Contents and Breakdown
-- ✅ Under ...
-- 🚧 Under ...
-
-🗺️ **Sitemap**
-```
-- Topic
-   - Topic 1
+project-root/
+├── assets/                # assets folder for images, css, js and other libraries
+│   ├── img/               # main directory for storing image files
+│   │   └── favicons/      # favicons for the app
+│   ├── css/               # main directory for storing css files
+│   ├── js/                # main directory for storing js files
+│   └── vendor/            # main directory for the libraries used from vendors 
+├── md_assets/             # assets folder for markdown files (documentation)
+├── .gitignore             # files ignored by Git
+├── README.md              # project documentation
+└── LICENSE                # license file
 ```
 
 | Description | File/s |
 | ------------- | ------------- |
 | Home Page of the template | `index.html` |
-| Main CSS of the template | `assets/css/style.css` |
-| Main JS of the template | `assets/js/core.js` |
+| Main CSS of the template | `assets/css/main-style.css` |
+| Main JS of the template | `assets/js/main-core.js` |
+
+## ![SECTION Prerequisites](https://custom-icon-badges.demolab.com/badge/-Prerequisites-24292e?logo=alert&logoColor=white&labelColor=00416a)
+blah blah blah...
+
+> [!IMPORTANT]
+> *If there's a need to put some note here*
+
+## ![SECTION Roadmap](https://custom-icon-badges.demolab.com/badge/-Roadmap-24292e?logo=tasklist&logoColor=white&labelColor=00416a)
+See the [open issues](https://github.com/thenocturnaldevgypsy/repo-link/issues) for a list of proposed features (and known issues).
+
+## ![SECTION Contents and Breakdown](https://custom-icon-badges.demolab.com/badge/-Contents%20and%20Breakdown-24292e?logo=book&logoColor=white&labelColor=00416a)
+- ✅ Under ...
+- 🚧 Under ...
 
 | Theme | Number of Variants | Description |
 | ------------- | ------------- | ------------- |
 | [xxx](https://github.com/thenocturnaldevgypsy) | XXX | What was done |
 
-## ![SECTION Changelog](https://img.shields.io/badge/❕-Changelog-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+## ![SECTION Sitemap](https://custom-icon-badges.demolab.com/badge/-Sitemap-24292e?logo=map&logoSource=feather&logoColor=white&labelColor=00416a)
+```
+Home/                         #
+├── Page 1.1/                 # 
+│   ├── Page 1.1.1/           # 
+│   │   └── Page 1.1.1.1/     # 
+│   ├── Page 1.1.2/           #
+│   ├── Page 1.1.3/           #
+│   └── Page 1.1.4/           #
+About Us                      #
+├── Page 2.1/                 # 
+├── Page 2.2/                 # 
+├── Page 2.3/                 # 
+└── Page 2.4/                 # 
+```
 
+## ![SECTION Changelog](https://custom-icon-badges.demolab.com/badge/-Changelog-24292e?logo=log&logoColor=white&labelColor=00416a)
+Chronological list of updates and changes to the project.
 | Version | Date | Commit | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | X.X.X | DD.MM.YYYY | [Commit ID](https://github.com/thenocturnaldevgypsy) for [PR ID](https://github.com/thenocturnaldevgypsy), [Commit ID](https://github.com/thenocturnaldevgypsy) | fix/feat | What was done ([PR ID](https://github.com/thenocturnaldevgypsy)) |

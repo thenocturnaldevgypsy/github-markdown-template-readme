@@ -1,5 +1,5 @@
 <p align="center"><img src="/md_assets/octocat.gif" alt="Logo" width="130" height="130"></p>
-<h3 align="center">Repository Markdown Template (Name of Repo Placememt)</h3>
+<h3 align="center">Repository Markdown Template (Name of Repo Placement)</h3>
 <p align="center"><em>Just a quick description of the Repo's purposes. Replace the octocat image above for the Repo Introduction/Banner</em></p>
 <p align="center"><strong>You like the Repo? Don't forget to 🌟, 👁️, 🔱 and ❤️!</strong></p>
 <p align="center">
@@ -15,11 +15,11 @@
    </a>
 </p>
 
-## ![SECTION Contribute](https://img.shields.io/badge/🤝-Contribute-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+## ![SECTION Contribute](https://custom-icon-badges.demolab.com/badge/-Contribute-24292e?logo=code-of-conduct&logoColor=white&labelColor=00416a)
 
 Hi! I appreciate your interest in contributing. 😊 This guide will help you get started to make your first contribution.
 
-### 🤔 **What you can Contribute?**
+## ![SUBSECTION What can you Contribute](https://custom-icon-badges.demolab.com/badge/-What%20you%20can%20Contribute-24292e?logo=people&logoColor=white&labelColor=2471AE)
 
 - 🐞 Bug Fixing : Contributors can help by reviewing and confirming reported issues. This includes submitting a report, verifying and providing additional details.
 
@@ -29,8 +29,7 @@ Hi! I appreciate your interest in contributing. 😊 This guide will help you ge
 
 - ✨Code Contributions : Contributors can enhance the project by implementing new features or improvements suggested by users. Unfortunately, I will move this one to hiatus first, as I need to make arrangement with reviewing those in the future.
 
----
-### 🤔 **How to Contribute?**
+## ![SUBSECTION How to Contribute](https://custom-icon-badges.demolab.com/badge/-How%20to%20Contribute-24292e?logo=people&logoColor=white&labelColor=2471AE)
 
 - Drop a Star ⭐ and 👁️ in this repo
 - Take a look at the existing [open](https://github.com/thenocturnaldevgypsy/repo-name/issues?q=is%3Aopen+is%3Aissue) and [closed](https://github.com/thenocturnaldevgypsy/repo-name/issues?q=is%3Aissue+is%3Aclosed) issues for possible duplicates.
