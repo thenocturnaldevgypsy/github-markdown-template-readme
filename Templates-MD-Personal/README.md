@@ -63,7 +63,7 @@ x64 binaries release
 
 ## ![Folders and Files Structure](https://custom-icon-badges.demolab.com/badge/-Folders%20and%20Files%20Structure-24292e?logo=file-submodule&logoColor=white&labelColor=00416a)
 
-At the moment, the workspace contains the following folders, where:
+At the moment, the repository contains the following structure, where:
 ```
 project-root/
 ├── assets/                # assets folder for images, css, js and other libraries
@@ -122,6 +122,11 @@ Below is the latest updates, go to the [Changelog Listing](CHANGELOG.md) for the
 
 ## ![SECTION Contribute](https://custom-icon-badges.demolab.com/badge/-Contribute-24292e?logo=code-of-conduct&logoColor=white&labelColor=00416a)
 Want to contribute? Great! Contributions welcome, but please read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## ![SECTION Forking the Repo](https://custom-icon-badges.demolab.com/badge/-Forking%20the%20Repo-24292e?logo=repo-forked&logoColor=white&labelColor=00416a)
+
+If you'd like to create your own AMA repository:
+- Click `Fork` at the top of this page.
 
 ## ![SECTION License](https://custom-icon-badges.demolab.com/badge/-License-24292e?logo=shield-check&logoColor=white&labelColor=00416a)
 Distributed under the MIT License by [Abegail Torrendon / thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy).
