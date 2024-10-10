@@ -26,8 +26,19 @@
 
 ### 🛠️ Build With and Folder Structure
 
+<<<<<<< Updated upstream
 I am currently using the following:
 - **IDE and OS**
+=======
+![SUBSECTION Live URLs](https://custom-icon-badges.demolab.com/badge/-Live%20URLs-24292e?logo=globe&logoColor=white&labelColor=2471AE)
+
+- Thru Netlify : https://
+- Thru Vercel : https://
+
+## ![SECTION Build With ❤️ and ...](https://custom-icon-badges.demolab.com/badge/-Build%20With%20❤️%20and%20...-24292e?logo=tools&logoColor=white&labelColor=00416a)
+
+**IDE and OS**
+>>>>>>> Stashed changes
 ```
 Version: ....
 ```

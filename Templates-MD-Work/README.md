@@ -22,8 +22,19 @@
 
 ### 🛠️ Build With and Folder Structure
 
+<<<<<<< Updated upstream
 I am currently using the following:
 - **IDE and OS**
+=======
+![SUBSECTION Live URLs](https://custom-icon-badges.demolab.com/badge/-Live%20URLs-24292e?logo=globe&logoColor=white&labelColor=2471AE)
+
+- Thru Netlify : https://
+- Thru Vercel : https://
+
+## ![SECTION Build With](https://custom-icon-badges.demolab.com/badge/-Build%20With-24292e?logo=tools&logoColor=white&labelColor=00416a)
+
+**IDE and OS**
+>>>>>>> Stashed changes
 ```
 Version: ....
 ```
@@ -68,10 +79,14 @@ blah blah blah...
 > [!IMPORTANT]
 > *If there's a need to put some note here*
 
+<<<<<<< Updated upstream
 ### 🚧 Roadmap
 See the [open issues](https://github.com/thenocturnaldevgypsy/repo-link/issues) for a list of proposed features (and known issues).
 
 ### 📖 Contents and Breakdown
+=======
+## ![SECTION Contents and Breakdown](https://custom-icon-badges.demolab.com/badge/-Contents%20and%20Breakdown-24292e?logo=book&logoColor=white&labelColor=00416a)
+>>>>>>> Stashed changes
 - ✅ Under ...
 - 🚧 Under ...
 
@@ -93,6 +108,14 @@ See the [open issues](https://github.com/thenocturnaldevgypsy/repo-link/issues) 
 
 ## ![SECTION Changelog](https://img.shields.io/badge/❕-Changelog-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 
+<<<<<<< Updated upstream
+=======
+## ![SECTION Roadmap](https://custom-icon-badges.demolab.com/badge/-Roadmap-24292e?logo=tasklist&logoColor=white&labelColor=00416a)
+See the [open issues](https://github.com/thenocturnaldevgypsy/repo-link/issues) for a list of proposed features (and known issues).
+
+## ![SECTION Changelog](https://custom-icon-badges.demolab.com/badge/-Changelog-24292e?logo=log&logoColor=white&labelColor=00416a)
+Chronological list of updates and changes to the project.
+>>>>>>> Stashed changes
 | Version | Date | Commit | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | X.X.X | DD.MM.YYYY | [Commit ID](https://github.com/thenocturnaldevgypsy) for [PR ID](https://github.com/thenocturnaldevgypsy), [Commit ID](https://github.com/thenocturnaldevgypsy) | fix/feat | What was done ([PR ID](https://github.com/thenocturnaldevgypsy)) |
