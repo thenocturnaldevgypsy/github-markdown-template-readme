@@ -24,7 +24,7 @@
 - Goal 2: What this feature brings to the project.
 - Goal 3: How this enhances the functionality.
 
-## ![Build With](https://custom-icon-badges.demolab.com/badge/-Build%20With-24292e?logo=tools&logoColor=white&labelColor=00416a)
+## ![SECTION Build With](https://custom-icon-badges.demolab.com/badge/-Build%20With-24292e?logo=tools&logoColor=white&labelColor=00416a)
 
 **IDE and OS**
 ```
@@ -57,7 +57,7 @@ x64 binaries release
 - Font: 
 ```
 
-## ![Folders and Files Structure](https://custom-icon-badges.demolab.com/badge/-Folders%20and%20Files%20Structure-24292e?logo=file-submodule&logoColor=white&labelColor=00416a)
+## ![SECTION Folders and Files Structure](https://custom-icon-badges.demolab.com/badge/-Folders%20and%20Files%20Structure-24292e?logo=file-submodule&logoColor=white&labelColor=00416a)
 
 At the moment, the workspace contains the following folders, where:
 ```
@@ -74,39 +74,47 @@ project-root/
 └── LICENSE                # license file
 ```
 
-Filename format for each themes:
-- ... blah blah blah...
+| Description | File/s |
+| ------------- | ------------- |
+| Home Page of the template | `index.html` |
+| Main CSS of the template | `assets/css/main-style.css` |
+| Main JS of the template | `assets/js/main-core.js` |
 
-## ![Prerequisites](https://custom-icon-badges.demolab.com/badge/-Prerequisites-24292e?logo=alert&logoColor=white&labelColor=00416a)
+## ![SECTION Prerequisites](https://custom-icon-badges.demolab.com/badge/-Prerequisites-24292e?logo=alert&logoColor=white&labelColor=00416a)
 blah blah blah...
 
 > [!IMPORTANT]
 > *If there's a need to put some note here*
 
-## ![Roadmap](https://custom-icon-badges.demolab.com/badge/-Roadmap-24292e?logo=tasklist&logoColor=white&labelColor=00416a)
+## ![SECTION Roadmap](https://custom-icon-badges.demolab.com/badge/-Roadmap-24292e?logo=tasklist&logoColor=white&labelColor=00416a)
 See the [open issues](https://github.com/thenocturnaldevgypsy/repo-link/issues) for a list of proposed features (and known issues).
 
-## ![Contents and Breakdown](https://custom-icon-badges.demolab.com/badge/-Contents%20and%20Breakdown-24292e?logo=book&logoColor=white&labelColor=00416a)
+## ![SECTION Contents and Breakdown](https://custom-icon-badges.demolab.com/badge/-Contents%20and%20Breakdown-24292e?logo=book&logoColor=white&labelColor=00416a)
 - ✅ Under ...
 - 🚧 Under ...
-
-## ![Sitemap](https://custom-icon-badges.demolab.com/badge/-Sitemap-24292e?logo=map&logoSource=feather&logoColor=white&labelColor=00416a)
-```
-- Topic
-   - Topic 1
-```
-| Description | File/s |
-| ------------- | ------------- |
-| Home Page of the template | `index.html` |
-| Main CSS of the template | `assets/css/style.css` |
-| Main JS of the template | `assets/js/core.js` |
 
 | Theme | Number of Variants | Description |
 | ------------- | ------------- | ------------- |
 | [xxx](https://github.com/thenocturnaldevgypsy) | XXX | What was done |
 
-## ![SECTION Changelog](https://custom-icon-badges.demolab.com/badge/-Changelog-24292e?logo=log&logoColor=white&labelColor=00416a)
+## ![SECTION Sitemap](https://custom-icon-badges.demolab.com/badge/-Sitemap-24292e?logo=map&logoSource=feather&logoColor=white&labelColor=00416a)
+```
+Home/                         #
+├── Page 1.1/                 # 
+│   ├── Page 1.1.1/           # 
+│   │   └── Page 1.1.1.1/     # 
+│   ├── Page 1.1.2/           #
+│   ├── Page 1.1.3/           #
+│   └── Page 1.1.4/           #
+About Us                      #
+├── Page 2.1/                 # 
+├── Page 2.2/                 # 
+├── Page 2.3/                 # 
+└── Page 2.4/                 # 
+```
 
+## ![SECTION Changelog](https://custom-icon-badges.demolab.com/badge/-Changelog-24292e?logo=log&logoColor=white&labelColor=00416a)
+Chronological list of updates and changes to the project.
 | Version | Date | Commit | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | X.X.X | DD.MM.YYYY | [Commit ID](https://github.com/thenocturnaldevgypsy) for [PR ID](https://github.com/thenocturnaldevgypsy), [Commit ID](https://github.com/thenocturnaldevgypsy) | fix/feat | What was done ([PR ID](https://github.com/thenocturnaldevgypsy)) |
