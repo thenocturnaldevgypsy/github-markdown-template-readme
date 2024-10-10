@@ -28,6 +28,12 @@
 - Feature 2: What this feature brings to the project.
 - Feature 3: How this enhances the functionality.
 
+![SUBSECTION Live URLs](https://custom-icon-badges.demolab.com/badge/-Live%20URLs-24292e?logo=globe&logoColor=white&labelColor=2471AE)
+
+- Thru ... 1: https://
+- Thru ... 2: https://
+- Thru ... 3: https://
+
 ## ![SECTION Build With ❤️ and ...](https://custom-icon-badges.demolab.com/badge/-Build%20With%20❤️%20and%20...-24292e?logo=tools&logoColor=white&labelColor=00416a)
 
 **IDE and OS**
@@ -91,9 +97,6 @@ blah blah blah...
 > [!IMPORTANT]
 > *If there's a need to put some note here*
 
-## ![SECTION Roadmap](https://custom-icon-badges.demolab.com/badge/-Roadmap-24292e?logo=tasklist&logoColor=white&labelColor=00416a)
-See the [open issues](https://github.com/thenocturnaldevgypsy/repo-link/issues) for a list of proposed features (and known issues).
-
 ## ![SECTION Contents and Breakdown](https://custom-icon-badges.demolab.com/badge/-Contents%20and%20Breakdown-24292e?logo=book&logoColor=white&labelColor=00416a)
 - ✅ Under ...
 - 🚧 Under ...
@@ -117,6 +120,9 @@ About Us                      #
 ├── Page 2.3/                 # 
 └── Page 2.4/                 # 
 ```
+
+## ![SECTION Roadmap](https://custom-icon-badges.demolab.com/badge/-Roadmap-24292e?logo=tasklist&logoColor=white&labelColor=00416a)
+See the [open issues](https://github.com/thenocturnaldevgypsy/repo-link/issues) for a list of proposed features (and known issues).
 
 ## ![SECTION Changelog](https://custom-icon-badges.demolab.com/badge/-Changelog-24292e?logo=log&logoColor=white&labelColor=00416a)
 

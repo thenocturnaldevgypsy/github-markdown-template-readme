@@ -24,6 +24,12 @@
 - Goal 2: What this feature brings to the project.
 - Goal 3: How this enhances the functionality.
 
+![SUBSECTION Live URLs](https://custom-icon-badges.demolab.com/badge/-Live%20URLs-24292e?logo=globe&logoColor=white&labelColor=2471AE)
+
+- Thru ... 1: https://
+- Thru ... 2: https://
+- Thru ... 3: https://
+
 ## ![SECTION Build With](https://custom-icon-badges.demolab.com/badge/-Build%20With-24292e?logo=tools&logoColor=white&labelColor=00416a)
 
 **IDE and OS**
@@ -86,10 +92,7 @@ blah blah blah...
 > [!IMPORTANT]
 > *If there's a need to put some note here*
 
-### 🚧 Roadmap
-See the [open issues](https://github.com/thenocturnaldevgypsy/repo-link/issues) for a list of proposed features (and known issues).
-
-### 📖 Contents and Breakdown
+## ![SECTION Contents and Breakdown](https://custom-icon-badges.demolab.com/badge/-Contents%20and%20Breakdown-24292e?logo=book&logoColor=white&labelColor=00416a)
 - ✅ Under ...
 - 🚧 Under ...
 
@@ -97,8 +100,26 @@ See the [open issues](https://github.com/thenocturnaldevgypsy/repo-link/issues) 
 | ------------- | ------------- | ------------- |
 | [xxx](https://github.com/thenocturnaldevgypsy) | XXX | What was done |
 
-## ![SECTION Changelog](https://img.shields.io/badge/❕-Changelog-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+## ![SECTION Sitemap](https://custom-icon-badges.demolab.com/badge/-Sitemap-24292e?logo=map&logoSource=feather&logoColor=white&labelColor=00416a)
+```
+Home/                         #
+├── Page 1.1/                 # 
+│   ├── Page 1.1.1/           # 
+│   │   └── Page 1.1.1.1/     # 
+│   ├── Page 1.1.2/           #
+│   ├── Page 1.1.3/           #
+│   └── Page 1.1.4/           #
+About Us                      #
+├── Page 2.1/                 # 
+├── Page 2.2/                 # 
+├── Page 2.3/                 # 
+└── Page 2.4/                 # 
+```
+## ![SECTION Roadmap](https://custom-icon-badges.demolab.com/badge/-Roadmap-24292e?logo=tasklist&logoColor=white&labelColor=00416a)
+See the [open issues](https://github.com/thenocturnaldevgypsy/repo-link/issues) for a list of proposed features (and known issues).
 
+## ![SECTION Changelog](https://custom-icon-badges.demolab.com/badge/-Changelog-24292e?logo=log&logoColor=white&labelColor=00416a)
+Chronological list of updates and changes to the project.
 | Version | Date | Commit | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | X.X.X | DD.MM.YYYY | [Commit ID](https://github.com/thenocturnaldevgypsy) for [PR ID](https://github.com/thenocturnaldevgypsy), [Commit ID](https://github.com/thenocturnaldevgypsy) | fix/feat | What was done ([PR ID](https://github.com/thenocturnaldevgypsy)) |
